@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+
+    <string name="action_save">Save</string>
+
+    <!-- Title for the activity to add a new product [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_product">Add a Product</string>
+    <!-- Label for Product Name in the editor [CHAR LIMIT=30] -->
+    <string name="category_product_name">Product Name</string>
+    <!-- Text hint for product name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_name">Product Name</string>
+
+    <!-- Text hint for price field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_price">Price</string>
+    <!-- Label for price information in the editor [CHAR LIMIT=30] -->
+    <string name="category_price">Price</string>
+    <!-- Text hint for price field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_price_currency">Price</string>
+    <!-- Units for price of the product (Euro) [CHAR LIMIT=5] -->
+    <string name="price_currency">Euro</string>
+
+    <!-- Label for quantity information in the editor [CHAR LIMIT=30] -->
+    <string name="category_quantity">Quantity</string>
+    <!-- Text hint for quantity field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_quantity">Quantity</string>
+
+    <!-- Label for supplier phone number information in the editor [CHAR LIMIT=30] -->
+    <string name="category_supplier_phone_number">Phone Number</string>
+    <!-- Text hint for phone number field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_phone_number">Supplier Phone Number</string>
+
+    <!-- Label for supplier name information in the editor [CHAR LIMIT=30] -->
+    <string name="category_supplier_name">Supplier</string>
+    <!-- Label for dropdown menu option if the supplier is unknown [CHAR LIMIT=20] -->
+    <string name="supplier_unknown">Unknown</string>
+
+    <!-- Label for dropdown menu option if the supplier is male Irish Book Distribution[CHAR LIMIT=20] -->
+    <string name="supplier_book_distribution">Irish Book Distribution</string>
+
+    <!-- Label for dropdown menu option if the supplier is Argosy Libraries Ltd [CHAR LIMIT=20] -->
+    <string name="supplier_argosy">Argosy Libraries Ltd</string>
+
+    <!-- Label for dropdown menu option if the supplier is The Book Nest Ltd [CHAR LIMIT=20] -->
+    <string name="supplier_book_nest">The Book Nest Limited</string>
+
+    <!-- Label for dropdown menu option if the supplier is The Book Centre [CHAR LIMIT=20] -->
+    <string name="supplier_book_centre">The Book Centre</string>
+</resources>
